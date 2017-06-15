@@ -1,1 +1,0 @@
-{"virtualbox":{"/vagrant":{"type":"virtualbox","guestpath":"/vagrant","hostpath":"/home/ltbarclay/Vagrant/centos_ofn2","disabled":false,"__vagrantfile":true},"/var/data":{"mount_options":["dmode=777","fmode=666"],"type":"virtualbox","guestpath":"/var/data","hostpath":"/home/ltbarclay/Vagrant/centos_ofn2/data","disabled":false,"__vagrantfile":true}}}
