@@ -1,0 +1,1 @@
+A basic CENTOS box for ruby on rails projects. postgres installed.
